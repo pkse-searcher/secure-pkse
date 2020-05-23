@@ -1,0 +1,4 @@
+rootProject.name = 'ls-peks'
+
+include 'echo-server'
+include 'thesis-code'
